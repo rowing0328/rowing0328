@@ -1,2 +1,2 @@
-<!-- 3D 잔디 -->
-![3D 잔디](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- 레고 모드 -->
+![gitblock version](profile-3d-contrib/profile-gitblock.svg)
