@@ -1,12 +1,12 @@
+## 💻 Recent Archive
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devhyoseung)](https://velog.io/@devhyoseung)
+
+<br/>
+
 ## ✨ GitHub Stats
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=codejesternd&count_private=true"/>
 </div>
-
-<br/>
-
-## 💻 Recent Archive
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devhyoseung)](https://velog.io/@devhyoseung)
 
 <br/>
 
