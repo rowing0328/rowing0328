@@ -11,7 +11,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        new_content += f"- {feed['title']}]({feed['link']})\n"
+        new_content += f"- {feed['title']}({feed['link']})\n"
 
 def update_readme_section(new_content):
     with open("README.md", "r", encoding="utf-8") as file:
