@@ -11,7 +11,7 @@
 <br/>
 
 ## 🏃 Weekly Challenge
-[![GitHub Stack](https://streak-stats.demolab.com?user=codejesternd&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Stack](https://streak-stats.demolab.com?user=rowing0328&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
