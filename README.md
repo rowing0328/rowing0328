@@ -8,13 +8,10 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📕 Latest Blog Posts
 
-- [DB/Oracle] INDEX  [4]](https://naturecancoding.tistory.com/146)
-- [DB/Oracle] SQL &amp; PL/SQL 기초 완벽 정리 (11g) [3]](https://naturecancoding.tistory.com/145)
-- [DB/Oracle] Oracle Architecture 이해하기 (11g) [2]](https://naturecancoding.tistory.com/144)
-- [DB/Oracle] Oracle 설치하기 (11g + Docker) [1]](https://naturecancoding.tistory.com/143)
-- [Server/NGINX] NGINX 설치 &amp; 설명에 대한 모든 것](https://naturecancoding.tistory.com/142)
-- [Monitoring/Loki] loki 설정 기초 (Bitnami Loki 3.x + Schema v13) (4)](https://naturecancoding.tistory.com/141)
-- [Monitoring/Loki] Loki 설치 &amp; 설명에 대한 모든 것 (3)](https://naturecancoding.tistory.com/140)
+- Layered Architecture 알아보기](https://dev-rowing.tistory.com/4)
+- [프로그래머스] Lv. 4 가사 검색(Java)](https://dev-rowing.tistory.com/3)
+- [이펙티브 자바] 객체 파괴](https://dev-rowing.tistory.com/2)
+- [이펙티브 자바] 객체 생성](https://dev-rowing.tistory.com/1)
 
 <!-- END_CUSTOM_SECTION -->
 
