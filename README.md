@@ -1,12 +1,17 @@
-## 💻 Recent Archive
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devhyoseung)](https://velog.io/@devhyoseung)
+## ✨ GitHub Stats
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=rowing0328&count_private=true"/>
+</div>
 
 <br/>
 
-## ✨ GitHub Stats
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=codejesternd&count_private=true"/>
-</div>
+<!-- START_CUSTOM_SECTION -->
+## 📕 Latest Blog Posts
+
+- [[Effective Java] 객체 파괴](https://dev-rowing.tistory.com/2)
+- [[Effective Java] 객체 생성](https://dev-rowing.tistory.com/1)
+
+<!-- END_CUSTOM_SECTION -->
 
 <br/>
 
