@@ -8,10 +8,10 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📕 Latest Blog Posts
 
-- Layered Architecture 알아보기(https://dev-rowing.tistory.com/4)
-- [프로그래머스] Lv. 4 가사 검색(Java)(https://dev-rowing.tistory.com/3)
-- [이펙티브 자바] 객체 파괴(https://dev-rowing.tistory.com/2)
-- [이펙티브 자바] 객체 생성(https://dev-rowing.tistory.com/1)
+- [Layered Architecture 알아보기](https://dev-rowing.tistory.com/4)
+- [[프로그래머스] Lv. 4 가사 검색(Java)](https://dev-rowing.tistory.com/3)
+- [[이펙티브 자바] 객체 파괴](https://dev-rowing.tistory.com/2)
+- [[이펙티브 자바] 객체 생성](https://dev-rowing.tistory.com/1)
 
 <!-- END_CUSTOM_SECTION -->
 
