@@ -31,7 +31,6 @@ jobs:
         python update_readme_rss.py
     - name: Update README.md file
       run: | 
-        git reset --hard
         git pull
         git add .
         git diff
