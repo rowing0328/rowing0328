@@ -4,7 +4,7 @@ URL = "https://dev-rowing.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 7
 
-new_content = "### 📕 Latest Blog Posts\n\n"
+new_content = "## 📕 Latest Blog Posts\n\n"
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx >= MAX_POST:
