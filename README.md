@@ -6,7 +6,7 @@
 <br/>
 
 <!-- START_CUSTOM_SECTION -->
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 - [Layered Architecture 알아보기](https://dev-rowing.tistory.com/4)
 - [[프로그래머스] Lv. 4 가사 검색(Java)](https://dev-rowing.tistory.com/3)
@@ -18,7 +18,7 @@
 <br/>
 
 ## 🏃 Weekly Challenge
-[![GitHub Stack](https://streak-stats.demolab.com?user=rowing0328&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rowing0328&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
