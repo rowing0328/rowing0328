@@ -6,7 +6,7 @@
 <br/>
 
 <!-- START_CUSTOM_SECTION -->
-## 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 - [Layered Architecture 알아보기](https://dev-rowing.tistory.com/4)
 - [[프로그래머스] Lv. 4 가사 검색(Java)](https://dev-rowing.tistory.com/3)
