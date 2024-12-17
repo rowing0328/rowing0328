@@ -8,11 +8,11 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
+- [Spring Boot와 JSch 활용한 ElastiCache SSH 터널링 설계하기](https://dev-rowing.tistory.com/9)
+- [Spring Boot 3.x JVM 통계, Grafana 대시보드로 분석하기](https://dev-rowing.tistory.com/8)
 - [[Spring] 스프링 컨텍스트(Spring Context) 알아보기](https://dev-rowing.tistory.com/6)
 - [[프로그래머스] Lv. 2 신규 아이디 추천(Kotlin)](https://dev-rowing.tistory.com/5)
 - [Layered Architecture 알아보기](https://dev-rowing.tistory.com/4)
-- [[프로그래머스] Lv. 4 가사 검색(Java)](https://dev-rowing.tistory.com/3)
-- [[이펙티브 자바] 객체 파괴](https://dev-rowing.tistory.com/2)
 
 <!-- END_CUSTOM_SECTION -->
 
