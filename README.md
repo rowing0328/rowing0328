@@ -8,11 +8,11 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
-- [[프로그래머스] Lv. 2 호텔 방 배정(Kotlin)](https://dev-rowing.tistory.com/13)
+- [[프로그래머스] Lv. 2 삼각 달팽이(Java)](https://dev-rowing.tistory.com/14)
+- [[프로그래머스] Lv. 4 호텔 방 배정(Kotlin)](https://dev-rowing.tistory.com/13)
 - [[프로그래머스] Lv. 2 교점에 별 만들기(Java)](https://dev-rowing.tistory.com/12)
 - [[스프링] 스프링 부트(Spring Boot) 알아보기](https://dev-rowing.tistory.com/11)
 - [[이펙티브 자바] Class와 상속](https://dev-rowing.tistory.com/10)
-- [Spring Boot와 JSch 활용한 ElastiCache SSH 터널링 설계하기](https://dev-rowing.tistory.com/9)
 
 <!-- END_CUSTOM_SECTION -->
 
