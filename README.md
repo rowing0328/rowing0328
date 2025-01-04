@@ -8,13 +8,13 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
+- [K6와 InfluxDB를 활용한 성능 테스트 및 모니터링 설계하기](https://dev-rowing.tistory.com/20)
 - [Prometheus와 Grafana 활용한 Spring Boot 모니터링 설계하기](https://dev-rowing.tistory.com/19)
 - [프로메테우스(Prometheus) &amp; 그라파나(Grafana) 알아보기](https://dev-rowing.tistory.com/17)
 - [[이펙티브 자바] Interface와 Class 설계 원칙](https://dev-rowing.tistory.com/16)
 - [[소프트웨어] 테스트 더블(Test Double) 알아보기](https://dev-rowing.tistory.com/15)
 - [[프로그래머스] Lv. 2 삼각 달팽이(Java)](https://dev-rowing.tistory.com/14)
 - [[프로그래머스] Lv. 4 호텔 방 배정(Kotlin)](https://dev-rowing.tistory.com/13)
-- [[프로그래머스] Lv. 2 교점에 별 만들기(Java)](https://dev-rowing.tistory.com/12)
 
 <!-- END_CUSTOM_SECTION -->
 
