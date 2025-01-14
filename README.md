@@ -8,13 +8,13 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
+- [[프로그래머스] Lv. 2 행렬의 곱셈](https://dev-rowing.tistory.com/29)
+- [[프로그래머스] Lv. 2 거리두기 확인하기(Java)](https://dev-rowing.tistory.com/28)
+- [[프로그래머스] Lv. 1 이상한 문자 만들기(Java)](https://dev-rowing.tistory.com/27)
+- [[프로그래머스] Lv. 1 시저 암호(Java)](https://dev-rowing.tistory.com/26)
+- [[프로그래머스] Lv. 1 자연수 뒤집어 배열로 만들기(Java)](https://dev-rowing.tistory.com/25)
 - [[이펙티브 자바] Enum과 Annotaion의 Effective한 사용](https://dev-rowing.tistory.com/24)
 - [[이펙티브 자바] Generic method와 Generic의 주의사항](https://dev-rowing.tistory.com/23)
-- [[이펙티브 자바] Generic 으로 만들어 사용하기](https://dev-rowing.tistory.com/21)
-- [K6와 InfluxDB를 활용한 성능 테스트 및 모니터링 설계하기](https://dev-rowing.tistory.com/20)
-- [Prometheus와 Grafana 활용한 Spring Boot 모니터링 설계하기](https://dev-rowing.tistory.com/19)
-- [프로메테우스(Prometheus) &amp; 그라파나(Grafana) 알아보기](https://dev-rowing.tistory.com/17)
-- [[이펙티브 자바] Interface와 Class 설계 원칙](https://dev-rowing.tistory.com/16)
 
 <!-- END_CUSTOM_SECTION -->
 
