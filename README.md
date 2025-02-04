@@ -8,13 +8,13 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
+- [[프로그래머스] Lv. 2 이진 변환 반복하기(Java)](https://dev-rowing.tistory.com/46)
+- [[프로그래머스] Lv. 1 신규 아이디 추천(Java)](https://dev-rowing.tistory.com/45)
+- [[프로그래머스] Lv. 1 문자열 다루기 기본(Java)](https://dev-rowing.tistory.com/44)
+- [[프로그래머스] Lv. 1 숫자 문자열과 영단어(Java)](https://dev-rowing.tistory.com/43)
+- [[프로그래머스] Lv. 1 문자열 내 p와 y의 개수(Java)](https://dev-rowing.tistory.com/42)
 - [SonarQube와 JaCoCo로 테스트 커버리지 측정하기](https://dev-rowing.tistory.com/41)
 - [SonarQube와 GitHub Actions로 정적 코드 품질 관리하기](https://dev-rowing.tistory.com/40)
-- [[프로그래머스] Lv. 2 문자열 압축(Java)](https://dev-rowing.tistory.com/39)
-- [[프로그래머스] Lv. 1 삼진법 뒤집기(Java)](https://dev-rowing.tistory.com/38)
-- [Testcontainers를 활용한 AWS S3 테스트 환경 구성하기](https://dev-rowing.tistory.com/37)
-- [Spring Boot와 LocalStack으로 AWS S3 테스트 환경 구성하기](https://dev-rowing.tistory.com/36)
-- [테스트 컨테이너(Testcontainers) 알아보기](https://dev-rowing.tistory.com/35)
 
 <!-- END_CUSTOM_SECTION -->
 
