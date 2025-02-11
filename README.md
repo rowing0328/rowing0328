@@ -8,13 +8,13 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
+- [[프로그래머스] Lv. 2 쿼드압축 후 개수 세기(Java)](https://dev-rowing.tistory.com/50)
 - [[이펙티브 자바] Basic한 프로그래밍 원칙 - Part 2](https://dev-rowing.tistory.com/49)
 - [[이펙티브 자바] Basic한 프로그래밍 원칙 - Part 1](https://dev-rowing.tistory.com/48)
 - [[이펙티브 자바] Effective Method와 주의사항](https://dev-rowing.tistory.com/47)
 - [[프로그래머스] Lv. 2 이진 변환 반복하기(Java)](https://dev-rowing.tistory.com/46)
 - [[프로그래머스] Lv. 1 신규 아이디 추천(Java)](https://dev-rowing.tistory.com/45)
 - [[프로그래머스] Lv. 1 문자열 다루기 기본(Java)](https://dev-rowing.tistory.com/44)
-- [[프로그래머스] Lv. 1 숫자 문자열과 영단어(Java)](https://dev-rowing.tistory.com/43)
 
 <!-- END_CUSTOM_SECTION -->
 
