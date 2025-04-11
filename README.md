@@ -8,7 +8,7 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
-- [[소프트웨어] 동시성(Concurrency) 문제 알아보기](https://dev-rowing.tistory.com/58)
+- [[스프링] 동시성(Concurrency) 문제 알아보기](https://dev-rowing.tistory.com/58)
 - [[오브젝트] 3장 왜 '역할', '책임', 협력'이 핵심인가?](https://dev-rowing.tistory.com/57)
 - [[오브젝트] 1장 '객체'지향 '설계', 무엇이 중요한가?](https://dev-rowing.tistory.com/56)
 - [Jenkins Pipeline와 DooD를 결합한 CI/CD 환경 구성하기](https://dev-rowing.tistory.com/55)
