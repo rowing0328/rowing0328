@@ -10,6 +10,8 @@
 특히, 인프라 운영 비용 절감과 응답 속도 개선을 성공적으로 이끈 프로젝트 경험을 바탕으로  
 효율적인 시스템 설계와 운영에 강점이 있습니다.
 
+<br/>
+
 ## ✨ GitHub Stats
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=rowing0328&count_private=true"/>
