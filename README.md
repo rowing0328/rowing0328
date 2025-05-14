@@ -22,13 +22,13 @@
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
+- [[네트워크] &quot;숫자&quot; 대신 &quot;이름으로 통하는 'D'omain 'N'ame 'S'ervice](https://dev-rowing.tistory.com/65)
 - [[웹] JSON 알아보기](https://dev-rowing.tistory.com/64)
 - [컨테이너 안에서 도커를 쓰는 두 가지 길](https://dev-rowing.tistory.com/63)
 - [[웹] '쿠키', '세션', '토큰', 'JWT', 무엇이 다를까?](https://dev-rowing.tistory.com/62)
 - [[자바] JVM 메타스페이스는 왜 정적이고 필요할까?](https://dev-rowing.tistory.com/61)
 - [[자바] 스택이 충분히 크면 힙은 없어도 될까?](https://dev-rowing.tistory.com/60)
 - [[데이터베이스] 트랜잭션(Transaction)은 왜 필요한가?](https://dev-rowing.tistory.com/59)
-- [[스프링] 동시성(Concurrency) 문제 알아보기](https://dev-rowing.tistory.com/58)
 
 <!-- END_CUSTOM_SECTION -->
 
