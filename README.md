@@ -17,7 +17,7 @@
 
 <br/>
 
-<!— START_CUSTOM_SECTION —>
+<!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
 <table style="border: none; border-collapse: collapse;">
@@ -28,7 +28,7 @@
 <td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/62"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDsfDf%2FbtsNR5fhs3X%2F4k7Y0uAD6I0rB4ydiOZHT0%2Fimg.jpg"><br/><strong>[웹] '쿠키', '세션', '토큰', 'JWT', 무엇이 다를까?</strong><br/><sub>2025.05.11</sub></a></td>
 </tr>
 </table>
-<!— END_CUSTOM_SECTION —>
+<!-- END_CUSTOM_SECTION -->
 
 <br/>
 
