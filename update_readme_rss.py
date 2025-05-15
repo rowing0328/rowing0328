@@ -1,17 +1,56 @@
-import feedparser, time
+import feedparser
+from datetime import datetime
+import requests
+from bs4 import BeautifulSoup
 
 URL = "https://dev-rowing.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 7
+MAX_POST = 4
 
-new_content = "## 📕 Latest Blog Posts\n\n"
+def extract_thumbnail(entry_url):
+    try:
+        res = requests.get(entry_url, timeout=5)
+        soup = BeautifulSoup(res.text, 'html.parser')
+        og_img = soup.find("meta", property="og:image")
+        return og_img["content"] if og_img else ""
+    except:
+        return ""
 
-for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx >= MAX_POST:
-        break
-    else:
-        feed_date = feed['published_parsed']
-        new_content += f"- [{feed['title']}]({feed['link']})\n"
+def format_entry_as_td(entry):
+    title = entry['title']
+    link = entry['link']
+    pub_date = datetime(*entry['published_parsed'][:3]).strftime("%Y.%m.%d")
+    thumbnail = extract_thumbnail(link)
+    if not thumbnail:
+        thumbnail = "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png"  # fallback image
+
+    td_html = f"""
+    <td width="25%" align="center" style="border: none; padding: 0 4px;">
+        <a href="{link}">
+            <img width="1012" alt="image" src="{thumbnail}">
+            <br/>
+            <strong>{title}</strong>
+            <br/>
+            <sub>{pub_date}</sub>
+        </a>
+    </td>
+    """
+    return td_html
+
+def build_table(feed_entries):
+    rows = []
+    tds = []
+
+    for idx, entry in enumerate(feed_entries[:MAX_POST]):
+        tds.append(format_entry_as_td(entry))
+        # Every 4 entries, start a new row
+        if (idx + 1) % 4 == 0 or (idx + 1) == len(feed_entries[:MAX_POST]):
+            row_html = "<tr style='border: none;'>\n" + "\n".join(tds) + "\n</tr>"
+            rows.append(row_html)
+            tds = []
+
+    table_html = f"## 💻 Blog\n\n<table style=\"border: none; border-collapse: collapse;\">\n" + "\n".join(rows) + "\n</table>"
+    return table_html
 
 def update_readme_section(new_content):
     with open("README.md", "r", encoding="utf-8") as file:
@@ -32,4 +71,5 @@ def update_readme_section(new_content):
             file.writelines(new_lines)
 
 if __name__ == "__main__":
-    update_readme_section(new_content)
+    blog_html = build_table(RSS_FEED.entries)
+    update_readme_section(blog_html)
