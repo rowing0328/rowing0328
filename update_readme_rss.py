@@ -14,28 +14,23 @@ def extract_thumbnail(entry_url):
         og_img = soup.find("meta", property="og:image")
         return og_img["content"] if og_img else ""
     except:
-        return ""
+        return "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png"
 
 def format_entry_as_td(entry):
     title = entry['title']
     link = entry['link']
     pub_date = datetime(*entry['published_parsed'][:3]).strftime("%Y.%m.%d")
     thumbnail = extract_thumbnail(link)
-    if not thumbnail:
-        thumbnail = "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png"  # fallback image
 
-    td_html = f"""
-    <td width="25%" align="center" style="border: none; padding: 0 4px;">
-        <a href="{link}">
-            <img width="1012" alt="image" src="{thumbnail}">
-            <br/>
-            <strong>{title}</strong>
-            <br/>
-            <sub>{pub_date}</sub>
-        </a>
-    </td>
-    """
-    return td_html
+    return (
+        f'<td width="25%" align="center" style="border: none; padding: 0 4px;">'
+        f'<a href="{link}">'
+        f'<img width="1012" alt="image" src="{thumbnail}"><br/>'
+        f'<strong>{title}</strong><br/>'
+        f'<sub>{pub_date}</sub>'
+        f'</a>'
+        f'</td>'
+    )
 
 def build_table(feed_entries):
     rows = []
