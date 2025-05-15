@@ -33,4 +33,6 @@
 <br/>
 
 ## 📈 Contribution Analysis
-![gitblock version](profile-3d-contrib/profile-gitblock.svg)
+<div align="center">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="gitblock version" width="85%" />
+</div>
