@@ -1,8 +1,9 @@
-## 🙋‍♂️ About Me
+## ✨ 기획부터 함께, 문제를 제안하고 풀어가는 개발자 신효승입니다.
 
 <table>
   <tr>
-    <td width="48%" valign="top">
+    <td width="48%" valign="middle">
+      🙋‍♂️ About Me<br/><br/>
       제약 속에서도 최적을 설계합니다.<br/><br/>
       단순한 스케일링보다는 사용 중인 언어와 프레임워크에 대한 <strong>깊은 이해</strong>를 바탕으로 성능 최적화와 효율성 개선에 집중합니다.<br/><br/>
       협업 시에는 명확한 <strong>커뮤니케이션</strong>과 <strong>표준화된 프로세스</strong>를 통해 팀 생산성을 높이며, 현실적이고 <strong>데이터 기반</strong>의 접근 방식으로 실질적인 문제 해결을 우선시합니다.<br/><br/>
