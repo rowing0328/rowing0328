@@ -44,7 +44,7 @@ def build_table(feed_entries):
             rows.append(row_html)
             tds = []
 
-    table_html = f"## 💻 Blog\n\n<table style=\"border: none; border-collapse: collapse;\">\n" + "\n".join(rows) + "\n</table>"
+    table_html = f"## 📕 Latest Blog Posts\n\n<table style=\"border: none; border-collapse: collapse;\">\n" + "\n".join(rows) + "\n</table>"
     return table_html
 
 def update_readme_section(new_content):
