@@ -24,50 +24,10 @@
 
 <table style="border: none; border-collapse: collapse;">
 <tr style='border: none;'>
-
-    <td width="25%" align="center" style="border: none; padding: 0 4px;">
-        <a href="https://dev-rowing.tistory.com/65">
-            <img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb1dVMv%2FbtsNWeRgn8P%2FwT9rIU1W9k4qoBNTyDVZ8K%2Fimg.jpg">
-            <br/>
-            <strong>[네트워크] &quot;숫자&quot; 대신 &quot;이름으로 통하는 'D'omain 'N'ame 'S'ervice</strong>
-            <br/>
-            <sub>2025.05.14</sub>
-        </a>
-    </td>
-    
-
-    <td width="25%" align="center" style="border: none; padding: 0 4px;">
-        <a href="https://dev-rowing.tistory.com/64">
-            <img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcdmpps%2FbtsNUVYibFC%2FoKbhkL4XqAGmkT8tFZXd5K%2Fimg.png">
-            <br/>
-            <strong>[웹] JSON 알아보기</strong>
-            <br/>
-            <sub>2025.05.13</sub>
-        </a>
-    </td>
-    
-
-    <td width="25%" align="center" style="border: none; padding: 0 4px;">
-        <a href="https://dev-rowing.tistory.com/63">
-            <img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZPzqx%2FbtsNUtGk3Rv%2FqkW9YZ4clBfyNLqbMuRJx0%2Fimg.png">
-            <br/>
-            <strong>컨테이너 안에서 도커를 쓰는 두 가지 길</strong>
-            <br/>
-            <sub>2025.05.12</sub>
-        </a>
-    </td>
-    
-
-    <td width="25%" align="center" style="border: none; padding: 0 4px;">
-        <a href="https://dev-rowing.tistory.com/62">
-            <img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDsfDf%2FbtsNR5fhs3X%2F4k7Y0uAD6I0rB4ydiOZHT0%2Fimg.jpg">
-            <br/>
-            <strong>[웹] '쿠키', '세션', '토큰', 'JWT', 무엇이 다를까?</strong>
-            <br/>
-            <sub>2025.05.11</sub>
-        </a>
-    </td>
-    
+<td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/65"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb1dVMv%2FbtsNWeRgn8P%2FwT9rIU1W9k4qoBNTyDVZ8K%2Fimg.jpg"><br/><strong>[네트워크] &quot;숫자&quot; 대신 &quot;이름으로 통하는 'D'omain 'N'ame 'S'ervice</strong><br/><sub>2025.05.14</sub></a></td>
+<td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/64"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcdmpps%2FbtsNUVYibFC%2FoKbhkL4XqAGmkT8tFZXd5K%2Fimg.png"><br/><strong>[웹] JSON 알아보기</strong><br/><sub>2025.05.13</sub></a></td>
+<td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/63"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZPzqx%2FbtsNUtGk3Rv%2FqkW9YZ4clBfyNLqbMuRJx0%2Fimg.png"><br/><strong>컨테이너 안에서 도커를 쓰는 두 가지 길</strong><br/><sub>2025.05.12</sub></a></td>
+<td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/62"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDsfDf%2FbtsNR5fhs3X%2F4k7Y0uAD6I0rB4ydiOZHT0%2Fimg.jpg"><br/><strong>[웹] '쿠키', '세션', '토큰', 'JWT', 무엇이 다를까?</strong><br/><sub>2025.05.11</sub></a></td>
 </tr>
 </table>
 <!-- END_CUSTOM_SECTION -->
