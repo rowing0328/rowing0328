@@ -40,5 +40,5 @@ jobs:
         git diff
         git config --local user.email "dev.hyoseung@gmail.com"
         git config --local user.name "rowing0328"
-        git commit -m "📝 문서 수정 : Update README.me"
+        git commit -m "📝 문서 수정 : README.me 수정"
         git push
