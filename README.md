@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="48%" valign="middle">
+    <td width="50%" valign="middle">
       🙋‍♂️ About Me<br/><br/>
       제약 속에서도 최적을 설계합니다.<br/><br/>
       단순한 스케일링보다는 사용 중인 언어와 프레임워크에 대한 <strong>깊은 이해</strong>를 바탕으로 성능 최적화와 효율성 개선에 집중합니다.<br/><br/>
