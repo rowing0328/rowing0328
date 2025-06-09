@@ -24,9 +24,9 @@
 <table style="border: none; border-collapse: collapse;">
 <tr style='border: none;'>
 <td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/73"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnAv7x%2FbtsOqHk3OEu%2FczSSpR9PKTQrlEZeV1BcZ0%2Fimg.jpg"><br/><strong>[클라우드 엔지니어 97] 1장 클라우드란 무엇인가?</strong><br/><sub>2025.06.07</sub></a></td>
+<td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/71"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbAj4WF%2FbtsOsebMZk2%2FhMcAgKiVXjkl0Sj6M9kk7k%2Fimg.webp"><br/><strong>[운영체제] 입출력 시스템과 장치 관리의 핵심 구조 이해하기</strong><br/><sub>2025.06.04</sub></a></td>
 <td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/70"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDWOx3%2FbtsN7ALzqu6%2F7aKgpHPE8syAWFu0QEl891%2Fimg.png"><br/><strong>[FastAPI] Todo 예제로 배우는 RESTful API 설계</strong><br/><sub>2025.05.20</sub></a></td>
 <td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/69"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIcIyB%2FbtsN4DIqaKP%2FnN980sWzX8CN0IgxBsCkdk%2Fimg.png"><br/><strong>[FastAPI] APIRouter로 라우팅 구조화하기</strong><br/><sub>2025.05.19</sub></a></td>
-<td width="25%" align="center" style="border: none; padding: 0 4px;"><a href="https://dev-rowing.tistory.com/68"><img width="1012" alt="image" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb3xDhU%2FbtsN2m2WRoT%2FTK0fXKBu03DKpsne1w6Kv0%2Fimg.png"><br/><strong>[FastAPI] 파이썬으로 웹 API 개발 시작하기</strong><br/><sub>2025.05.19</sub></a></td>
 </tr>
 </table>
 <!-- END_CUSTOM_SECTION -->
