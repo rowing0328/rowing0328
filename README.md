@@ -10,8 +10,8 @@
       특히, 인프라 <strong>운영 비용 절감</strong>과 <strong>응답 속도 개선</strong>을 성공적으로 이끈 프로젝트 경험을 바탕으로 <strong>효율적인 시스템 설계와 운영</strong>에 강점이 있습니다.
     </td>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rowing0328&count_private=true&show_icons=true&theme=gotham" width="100%"/><br/><br/>
-      <img src="https://streak-stats.demolab.com?user=rowing0328&theme=dark&mode=weekly" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=roing0328&count_private=true&show_icons=true&theme=gotham" width="100%"/><br/><br/>
+      <img src="https://streak-stats.demolab.com?user=roing0328&theme=dark&mode=weekly" width="100%"/>
     </td>
   </tr>
 </table>
