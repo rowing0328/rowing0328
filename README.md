@@ -1,22 +1,45 @@
-## ✨ 기획부터 함께, 문제를 제안하고 풀어가는 개발자
+<h2 align="center">✨ 기획부터 운영까지, 병목을 줄이는 백엔드 개발자</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-      🙋‍♂️ About Me<br/><br/>
-      제약 속에서도 최적을 설계합니다.<br/><br/>
-      단순한 스케일링보다는 사용 중인 언어와 프레임워크에 대한 <strong>깊은 이해</strong>를 바탕으로 성능 최적화와 효율성 개선에 집중합니다.<br/><br/>
-      협업 시에는 명확한 <strong>커뮤니케이션</strong>과 <strong>표준화된 프로세스</strong>를 통해 팀 생산성을 높이며, 현실적이고 <strong>데이터 기반</strong>의 접근 방식으로 실질적인 문제 해결을 우선시합니다.<br/><br/>
-      특히, 인프라 <strong>운영 비용 절감</strong>과 <strong>응답 속도 개선</strong>을 성공적으로 이끈 프로젝트 경험을 바탕으로 <strong>효율적인 시스템 설계와 운영</strong>에 강점이 있습니다.
-    </td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rowing0328&count_private=true&show_icons=true&theme=gotham" width="100%"/><br/><br/>
-      <img src="https://streak-stats.demolab.com?user=rowing0328&theme=dark&mode=weekly" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  제약 속에서 현실적인 시스템을 설계하고,<br/>
+  성능 · 비용 · 운영 효율을 데이터 기반으로 개선하는 데 집중합니다.
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://dev-rowing.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-dev--rowing.tistory.com-FF5A4A?style=flat-square&logo=tistory&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://github.com/rowing0328">
+    <img src="https://img.shields.io/badge/GitHub-rowing0328-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="JPA" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" alt="MyBatis" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222222" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+## 🧭 Working Style
+
+```text
+문제 정의 → 병목 측정 → 작은 단위 개선 → 테스트/로그 검증 → 운영 가능한 구조로 정리
+```
 
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
@@ -30,8 +53,6 @@
 </tr>
 </table>
 <!-- END_CUSTOM_SECTION -->
-
-<br/>
 
 ## 📈 Contribution Analysis
 <div align="center">
