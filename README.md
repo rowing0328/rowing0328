@@ -1,94 +1,69 @@
-<h2 align="center">✨ 문제를 정의하고 구조적으로 해결하는 소프트웨어 엔지니어</h2>
+## About Me
+- Java, Spring Boot 기반 백엔드 시스템을 개발하는 소프트웨어 엔지니어 신효승입니다
+- API, 배치, 외부 시스템 연동부터 배포·운영 환경 개선까지 경험하고 있습니다
+- 성능, 테스트, 로그 추적, CI/CD, 관측성을 함께 고민하며 신뢰할 수 있는 소프트웨어를 만들고자 합니다
 
-<p align="center">
-  요구사항과 제약 속에서 문제의 원인을 찾고,<br/>
-  검증 가능한 방식으로 해결책을 구현하는 데 집중합니다.
-</p>
+## Education
+- **Hoseo University** (2018.03 ~ 2022.02)
+  > B.S. in Computer Engineering
 
-<p align="center">
-  <a href="https://dev-rowing.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-dev--rowing.tistory.com-FF5A4A?style=flat-square&logo=tistory&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://github.com/rowing0328">
-    <img src="https://img.shields.io/badge/GitHub-rowing0328-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- **Suwon Information Science High School** (2014.03 ~ 2017.02)
+  > Computer Electronics
 
-## 🙋‍♂️ About Me
+## Experience
+- **트리포스㈜ | Software Engineer** (2025.06 ~ )
+  > Java, Spring Boot 기반 업무 API, 배치 및 외부 시스템 연동 개발<br>
+  > React 기반 프론트엔드 전환, CI/CD 표준화 및 Kubernetes 운영 환경 구성<br>
+  > 관측성 환경 구축, 운영 네트워크 접근 제어 및 테스트 자동화
 
-- Java · Spring Boot 기반 서버 개발을 중심으로, 프론트엔드와 인프라까지 함께 다룹니다.
-- 기능 구현 전에 요구사항, 제약, 원인을 먼저 정리하고 해결 방향을 잡습니다.
-- SQL 로그, 실행 계획, 캐싱, 비동기 처리처럼 필요한 도구로 병목과 장애 가능성을 줄입니다.
-- 운영 비용, 배포 흐름, 로그, 테스트까지 고려해 지속 가능한 구조로 정리합니다.
-- 명확한 커뮤니케이션과 표준화된 프로세스로 팀이 같은 문제를 바라보도록 돕습니다.
+- **한국농어촌공사㈜ | 사회복무요원** (2022.04 ~ 2024.02)
+  > 문서 자동화 도입 및 업무 프로세스 개선
 
-## 🛠 Tech Stack
+- **인트인㈜ | 연구보조 인턴** (2021.10 ~ 2021.12)
+  > R&D 데이터 라벨링 및 CES 2022 출품작 시연 준비
 
-프로젝트에서 실제로 사용해 본 기술을 역할과 문제 영역 기준으로 나누어 정리했습니다.
+## Activities
+- **오픈소스 컨트리뷰션 아카데미 | Git 활용 및 LitmusChaos** (2026.04 ~ 2026.06)
+  > Git 기반 오픈소스 협업 및 Kubernetes 카오스 엔지니어링 학습<br>
+  > Go 기반 LitmusChaos 개발 환경 구축, 이슈 분석 및 기여 과정 경험
 
-### Languages
+- **이노그리드 | 클라우드 JR 엔지니어 양성 CAMP | 팀장** (2025.05 ~ 2025.08)
+  > AWS, IaC, Docker 및 Kubernetes 기반 클라우드 인프라 학습
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
-</p>
+- **넥스트스텝 | Domain-Driven Design 세레나데** (2025.01 ~ 2025.03)
+  > 이벤트 스토밍, 도메인 모델링 및 이벤트 기반 아키텍처 학습
 
-### Backend
+- **오픈소스 컨트리뷰션 아카데미 | Git 활용 및 표준프레임워크 MSA | 팀장** (2024.09 ~ 2024.10)
+  > 전자정부 표준프레임워크 MSA 오픈소스 코드 분석 및 교안 개선 참여
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" alt="MyBatis" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-</p>
+- **멋쟁이사자처럼 | 자바 백엔드 스쿨 | 팀장** (2024.03 ~ 2024.09)
+  > Java, Spring 기반 백엔드 교육 및 해커톤 프로젝트 수행
 
-### Database & Cache
+- **호서대학교 | Digital Convergence LAB | 학부 연구생** (2021.09 ~ 2022.02)
+  > 네트워크 프로토콜 세미나 및 Vault 기반 인증 브로커 플러그인 테스트 문서 작성
 
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-</p>
+## Projects
+- **사내 DevOps 플랫폼 구축 및 서비스 배포 체계 표준화** | DevOps, Cloud (2025.08 ~ )
+  > Jenkins, Docker, Nexus, SonarQube 기반 CI/CD 플랫폼 구성<br>
+  > Prometheus, Grafana, Loki 기반 관측성 환경 및 운영 네트워크 접근 제어 구성
 
-### Frontend
+- **KT Cloud Kubernetes 기반 SaaS 전환** | Cloud, DevOps (2025.07 ~ 2025.08)
+  > Kubernetes 운영 환경과 Jenkins, Nexus 기반 배포 자동화 구성<br>
+  > Ingress 라우팅, 공유 스토리지 및 수평 확장 기반 구축
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222222" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
-</p>
+- **외부 시스템 연동 미들웨어 API 서버** | Backend (2025.03 ~ 2025.05)
+  > Java, Spring Boot 기반 API 및 배치 연동 서버 구축<br>
+  > 외부 연동 실패 이력, 재시도 및 장애 추적 구조 구현
 
-### Infra & DevOps
+## Awards
+- **NASA Space Apps Challenge** | **Certificate of Completion** (2025.10)
+- **DIVE 2024 해커톤** | **코레일 발제사 부문 3위** (2024.10)
+- **멋쟁이사자처럼 아카데미** | **우수 교육생 선발** (2024.09)
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus Repository" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-### Integration & Operations
-
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
-</p>
-
-## 🧭 Working Style
-
-```text
-문제 정의 → 원인 분석 → 해결안 설계 → 작은 단위 검증 → 운영 가능한 구조로 정리
-```
+## Certifications
+- **정보처리기사** | 필기합격 (2025.03)
+- **전자기기기능사** | 최종합격 (2016.07)
+- **PC정비사 2급** | 최종합격 (2014.12)
 
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
@@ -102,11 +77,3 @@
 </tr>
 </table>
 <!-- END_CUSTOM_SECTION -->
-
-<br/>
-
-## 📈 Contribution Analysis
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" width="85%" />
-</div>
