@@ -11,15 +11,15 @@
   > Computer Electronics
 
 ## Experience
-- **트리포스㈜ | Software Engineer** (2025.06 ~ )
+- **트리포스㈜ | SER & Software Engineer** (2025.06 ~ )
   > Java, Spring Boot 기반 업무 API, 배치 및 외부 시스템 연동 개발<br>
   > React 기반 프론트엔드 전환, CI/CD 표준화 및 Kubernetes 운영 환경 구성<br>
   > 관측성 환경 구축, 운영 네트워크 접근 제어 및 테스트 자동화
 
-- **한국농어촌공사㈜ | 사회복무요원** (2022.04 ~ 2024.02)
+- **한국농어촌공사㈜ | Administrative Assistant** (2022.04 ~ 2024.02)
   > 문서 자동화 도입 및 업무 프로세스 개선
 
-- **인트인㈜ | 연구보조 인턴** (2021.10 ~ 2021.12)
+- **인트인㈜ | Research Assistant** (2021.10 ~ 2021.12)
   > R&D 데이터 라벨링 및 CES 2022 출품작 시연 준비
 
 ## Activities
