@@ -19,7 +19,7 @@
 - **한국농어촌공사㈜ | Administrative Assistant** (2022.04 ~ 2024.02)
   > 문서 자동화 도입 및 업무 프로세스 개선
 
-- **인트인㈜ | Research Assistant** (2021.10 ~ 2021.12)
+- **INTIN | Research Assistant** (2021.10 ~ 2021.12)
   > R&D 데이터 라벨링 및 CES 2022 출품작 시연 준비
 
 ## Activities
