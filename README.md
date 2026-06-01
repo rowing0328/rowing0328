@@ -21,9 +21,9 @@
   > Jenkins, Docker, Nexus, SonarQube 기반 CI/CD 플랫폼 구성  
   > Prometheus, Grafana, Loki 기반 관측성 환경 및 운영 네트워크 접근 제어 구성
 
-- **외부 시스템 연동 미들웨어 API 서버**
-  > Java, Spring Boot 기반 업무 API 및 배치 연동 서버 구축  
-  > 외부 연동 실패 이력, 재시도 및 장애 추적 구조 구현
+- **협력사 연동 미들웨어 API 서버**
+  > Java, Spring Boot 기반 외부 시스템 연동 API 및 배치 서버 구축  
+  > 연동 실패 이력 관리, 재시도 처리 및 장애 추적 구조 구현
 
 - **Kubernetes 기반 SaaS 전환 및 CI/CD 운영 환경 구축**
   > Kubernetes 운영 환경과 Jenkins, Nexus 기반 배포 자동화 구성  
