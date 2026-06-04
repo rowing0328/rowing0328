@@ -66,13 +66,6 @@
 - **DIVE 2024 해커톤** | **코레일 발제사 부문 3위** (2024.10)
 - **멋쟁이사자처럼 아카데미** | **우수 교육생 선발** (2024.09)
 
-## Education
-- **Hoseo University** (2018.03 ~ 2022.02)
-  > B.S. in Computer Engineering
-
-- **Suwon Information Science High School** (2014.03 ~ 2017.02)
-  > Computer Electronics
-
 <!-- START_CUSTOM_SECTION -->
 ## 📕 Latest Blog Posts
 
