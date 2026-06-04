@@ -4,7 +4,7 @@
 - 성능, 테스트, 로그 추적, CI/CD, 관측성을 함께 고민하며 신뢰할 수 있는 소프트웨어를 만들고자 합니다
 
 ## Experience
-- **트리포스㈜ | SRE & Software Engineer** (2025.06 ~ )
+- **트리포스㈜ | Software and DevOps Engineer** (2025.06 ~ )
   > Java, Spring Boot 기반 업무 API, 배치 및 외부 시스템 연동 개발<br>
   > React 기반 프론트엔드 전환, CI/CD 표준화 및 Kubernetes 운영 환경 구성<br>
   > 관측성 환경 구축, 운영 네트워크 접근 제어 및 테스트 자동화
