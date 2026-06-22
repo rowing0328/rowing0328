@@ -22,6 +22,11 @@
   > 수동 배포를 Pipeline·Docker Compose 기반 반복 배포 흐름으로 전환<br>
   > Prometheus, Grafana, Loki 기반 관측성 및 Nginx/iptables 접근 제어 구성
 
+- **LLM Gateway API 및 GPU 모델 운영 환경 구축**
+  > FastAPI 기반 채팅·임베딩·비전 모델 호출 Gateway 구현<br>
+  > llama.cpp runtime과 Model Manager 기반 모델 기동·전환 흐름 구성<br>
+  > AMD MI250 ROCm 서버에서 GPU 실행 환경과 핵심 API 동작 검증
+
 - **Kubernetes 기반 SaaS 운영 환경 및 배포 자동화 구성**
   > KT Cloud Kubernetes 환경에서 사용자·관리자·CI/CD 실행 영역 분리<br>
   > Jenkins, Maven Jib, Nexus 기반 Java/Tomcat 이미지 빌드 및 배포 자동화<br>
@@ -41,11 +46,6 @@
   > JSP, jQuery, jqGrid 기반 레거시 UI를 React, TypeScript 기반 SPA로 전환<br>
   > 상태 관리, API 요청, 테이블 패턴, 송장 출력 로직을 기능 단위로 분리<br>
   > 인증 복구 및 API 상태 관리 공통화로 유지보수성 개선
-
-- **LLM Gateway API 및 GPU 모델 운영 환경 구축**
-  > FastAPI 기반 채팅·임베딩·비전 모델 호출 Gateway 구현<br>
-  > llama.cpp runtime과 Model Manager 기반 모델 기동·전환 흐름 구성<br>
-  > AMD MI250 ROCm 서버에서 GPU 실행 환경과 핵심 API 동작 검증
 
 ## Activities
 - **오픈소스 컨트리뷰션 아카데미 | Git 활용 및 LitmusChaos** (2026.04 ~ 2026.06)
