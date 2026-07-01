@@ -1,14 +1,32 @@
 ## About Me
-- Java, Spring Boot 기반 API·배치·미들웨어 개발과 DevOps 운영 개선을 함께 경험한 소프트웨어 엔지니어입니다.
-- 기능 구현 이후의 배포, 검증, 로그 추적, 장애 대응 흐름까지 고려하며 일합니다.
-- 반복되는 문제를 로그, 테스트, 문서, 파이프라인처럼 다시 확인 가능한 기준으로 정리하는 방식을 지향합니다.
-- Codex, Claude Code 등 AI 도구를 요구사항 정리, 구현 방향 검토, 테스트·배포 체크리스트 보완에 활용하고 있습니다.
+
+운영 환경에서 확인 가능한 소프트웨어를 만드는 데 관심이 있습니다.
+
+Java/Spring Boot 기반 미들웨어 API·배치 개발을 시작으로,  
+React SPA 마이그레이션, CI/CD 파이프라인, 관측성 환경,  
+Kubernetes 기반 운영 환경, FastAPI 기반 LLM Gateway까지 경험을 넓혀 왔습니다.
+
+기능을 구현하는 것에서 멈추기보다,  
+배포 후 어떻게 확인할 수 있는지, 문제가 생겼을 때 어떤 로그와 지표를 볼 수 있는지,  
+다시 처리해야 할 데이터는 어떻게 구분할 수 있는지를 함께 고민합니다.
+
+AI 도구는 요구사항 정리, 구현 방향 검토, 테스트·배포 체크리스트 보완에 활용합니다.  
+다만 최종 판단은 코드, 로그, 테스트, 문서처럼 다시 확인 가능한 근거를 기준으로 합니다.
+
+## How I Work
+
+- 문제를 먼저 재현하고, 로그와 지표를 통해 원인을 좁혀 갑니다.
+- 프로젝트마다 역할과 책임을 섞지 않고, 변경 영향이 작아지도록 구조를 나눕니다.
+- 테스트, 문서, 배포 절차처럼 팀원이 다시 확인할 수 있는 기준을 남기려 합니다.
+- 새로운 기술은 도입 자체보다 운영 중 확인 가능성과 유지보수 가능성을 함께 봅니다.
 
 ## Experience
-- **트리포스㈜ | Software & DevOps Engineer** (2025.06 ~ )
-  > Java, Spring Boot 기반 업무 API·배치·외부 시스템 연동 개발<br>
-  > Jenkins, Docker, Kubernetes 기반 CI/CD·컨테이너 배포 환경 구성<br>
-  > Prometheus, Grafana, Loki 기반 관측성 구축 및 운영 접근 제어 개선
+
+- **트리포스㈜ | Software Engineer** (2025.06 ~ )
+  > Java/Spring Boot 기반 미들웨어 API·배치 개발  
+  > FastAPI 기반 LLM Gateway 및 llama.cpp 기반 GPU 모델 실행 환경 구성  
+  > Jenkins, Docker, Kubernetes, Prometheus, Grafana, Loki 기반 운영 환경 개선  
+  > React, TypeScript 기반 레거시 웹 화면 SPA 마이그레이션
 
 - **한국농어촌공사㈜ | Administrative Assistant** (2022.04 ~ 2024.02)
   > 문서 자동화 도입 및 업무 프로세스 개선
@@ -16,55 +34,54 @@
 - **INTIN | Research Assistant** (2021.10 ~ 2021.12)
   > R&D 데이터 라벨링 및 CES 2022 출품작 시연 준비
 
-## Projects
-- **CI/CD 및 운영 자동화 플랫폼 구축**
-  > Jenkins, Docker, Nexus, SonarQube 기반 CI/CD 파이프라인 구성<br>
-  > 수동 배포를 Pipeline·Docker Compose 기반 반복 배포 흐름으로 전환<br>
-  > Prometheus, Grafana, Loki 기반 관측성 및 Nginx/iptables 접근 제어 구성
+## Selected Projects
 
-- **LLM Gateway API 및 GPU 모델 운영 환경 구축**
-  > FastAPI 기반 채팅·임베딩·비전 모델 호출 Gateway 구현<br>
-  > llama.cpp runtime과 Model Manager 기반 모델 기동·전환 흐름 구성<br>
-  > AMD MI250 ROCm 서버에서 GPU 실행 환경과 핵심 API 동작 검증
+- **LLM Gateway 및 llama.cpp 기반 GPU 모델 운영 환경 구축**
+  > 사내 여러 부서에서 LLM 모델을 공통으로 호출할 수 있도록 FastAPI 기반 Gateway 구성  
+  > 모델 카탈로그, API Key 인증, 모델별 접근 제어, llama.cpp runtime 프록시 구현  
+  > AMD MI250 ROCm 서버에서 모델 실행 환경과 Prometheus 기반 상태 확인 기준 구성
 
-- **Kubernetes 기반 SaaS 운영 환경 및 배포 자동화 구성**
-  > KT Cloud Kubernetes 환경에서 사용자·관리자·CI/CD 실행 영역 분리<br>
-  > Jenkins, Maven Jib, Nexus 기반 Java/Tomcat 이미지 빌드 및 배포 자동화<br>
-  > Ingress, PV/PVC, HPA 기반 라우팅·스토리지·확장 구조 구성
+- **사내 CI/CD 및 관측성 플랫폼 구축**
+  > Jenkins, Docker, Nexus 기반 CI/CD 파이프라인 구성  
+  > SonarQube, JaCoCo 기반 코드 품질 검증 흐름 연계  
+  > Prometheus, Grafana, Loki 기반 로그·메트릭 모니터링 환경 구성
 
-- **업무 시스템 연계 미들웨어 API·배치 서버 개발**
-  > Java, Spring Boot 기반 외부 시스템 연동 API 및 배치 흐름 구현<br>
-  > 실패 상태, 재시도, 영구 실패 기준을 분리해 장애 추적 흐름 구성<br>
-  > MyBatis, JUnit 5, Spring REST Docs 기반 테스트·문서화 적용
+- **Kubernetes 기반 SaaS 운영 환경 전환**
+  > KT Cloud Kubernetes 환경에서 서비스 실행 영역과 CI/CD 실행 영역 분리  
+  > Jenkins, Maven Jib, Nexus 기반 컨테이너 빌드·배포 흐름 구성  
+  > Ingress, Service, PV/PVC, HPA 기반 운영 환경 구성
 
-- **게시판 조회 성능 개선 및 JPA 쿼리 최적화**
-  > SQL 로그와 MariaDB EXPLAIN 기반 조회 병목 분석<br>
-  > 검색 조건 JPQL 분기 및 최신 댓글 일괄 조회 구조 적용<br>
-  > 전체 응답 시간 약 38% 단축, 댓글 조회 SQL 25회에서 1회로 축소
+- **협력사 연동 미들웨어 API·배치 서버 구축**
+  > 협력사 시스템 간 데이터 중계 및 실패 재처리 로직 구현  
+  > 요청·응답 로그와 traceId 기반 연동 장애 추적 구조 구성  
+  > JUnit 5, Spring REST Docs 기반 테스트·문서화 적용
 
-- **레거시 웹 화면 React SPA 전환**
-  > JSP, jQuery, jqGrid 기반 레거시 UI를 React, TypeScript 기반 SPA로 전환<br>
-  > 상태 관리, API 요청, 테이블 패턴, 송장 출력 로직을 기능 단위로 분리<br>
-  > 인증 복구 및 API 상태 관리 공통화로 유지보수성 개선
+- **사내 유지보수 게시판 조회 성능 개선**
+  > 쿼리 로그와 실행 계획 기반 조회 병목 분석  
+  > JPQL 조건 분리와 최신 댓글 일괄 조회 구조 적용  
+  > 댓글 조회 SQL 실행 횟수를 25회에서 1회로 축소
+
+- **물류 관리 웹 애플리케이션 React SPA 마이그레이션**
+  > JSP·jQuery 기반 레거시 화면을 React, TypeScript, Vite 기반 SPA로 전환  
+  > API 요청, 서버 상태, UI 상태 관리 구조 분리  
+  > 인증 복구와 공통 테이블 구조 개선
 
 ## Activities
+
 - **오픈소스 컨트리뷰션 아카데미 | Git 활용 및 LitmusChaos** (2026.04 ~ 2026.06)
-  > Git 기반 오픈소스 협업 및 Kubernetes 카오스 엔지니어링 학습<br>
-  > Go 기반 LitmusChaos 개발 환경 구축, 이슈 분석 및 기여 과정 경험
+  > Git 기반 오픈소스 협업과 Kubernetes 카오스 엔지니어링 학습
 
 - **이노그리드 | 클라우드 JR 엔지니어 양성 CAMP | 팀장** (2025.05 ~ 2025.08)
-  > AWS, IaC, Docker 및 Kubernetes 기반 클라우드 인프라 학습
+  > AWS, IaC, Docker, Kubernetes 기반 클라우드 인프라 학습
 
 - **오픈소스 컨트리뷰션 아카데미 | Git 활용 및 표준프레임워크 MSA | 팀장** (2024.09 ~ 2024.10)
-  > 전자정부 표준프레임워크 MSA 오픈소스 코드 분석 및 교안 개선 참여
+  > 전자정부 표준프레임워크 MSA 코드 분석 및 교육 자료 개선 참여
 
 - **멋쟁이사자처럼 | 자바 백엔드 스쿨 | 팀장** (2024.03 ~ 2024.09)
   > Java, Spring 기반 백엔드 교육 및 해커톤 프로젝트 수행
 
-- **호서대학교 | Digital Convergence LAB | 학부 연구생** (2021.09 ~ 2022.02)
-  > 네트워크 프로토콜 세미나 및 Vault 기반 인증 브로커 플러그인 테스트 문서 작성
-
 ## Awards
+
 - **NASA Space Apps Challenge** | Certificate of Completion (2025.10)
 - **DIVE 2024 해커톤** | 코레일 발제사 부문 3위 (2024.10)
 - **멋쟁이사자처럼 아카데미** | 우수 교육생 선발 (2024.09)
