@@ -11,7 +11,7 @@
 
 ### 트리포스㈜ | Software Engineer
 
-`2025.06 ~ Present`
+`2025.06 ~ 2026.07`
 
 - Java/Spring Boot 기반 미들웨어 API·배치 개발
 - FastAPI 기반 LLM Gateway 및 llama.cpp 기반 GPU 모델 실행 환경 구성
